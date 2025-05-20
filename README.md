@@ -2,7 +2,7 @@
 
 ## 🌐 Link do projeto
 
-🔗 Acesse o site publicado: [cruz-about.vercel.app](https://cruz-about.vercel.app/about.html)
+🔗 Acesse o site publicado: [cruz-about.vercel.app](https://cruz-about.vercel.app/index.html)
 
 ---
 
